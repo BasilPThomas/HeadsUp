@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950349203094",
+    "project_id": "devhut-cb01c",
+    "storage_bucket": "devhut-cb01c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950349203094:android:fdc0e110237a41a5f5e4b7",
+        "android_client_info": {
+          "package_name": "com.example.headsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950349203094-3cm1hveae5s4dvjs6fo7dude6t1hd60b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPM83JhXPtz5Hlwfn1VrEkKGUjCAxc7r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950349203094-3cm1hveae5s4dvjs6fo7dude6t1hd60b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
